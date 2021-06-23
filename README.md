@@ -9,3 +9,5 @@ To run Java functions, please run the following commands with appropiate JDBC dr
 `java JdbcLab <url> <user> <pwd> <driver> export <filename>`
 
 `java JdbcLab2 <DeptNo>`
+
+PLEASE ONLY RUN JdbcLab.java AND JdbcLab2.java - Other Java files were "drafts" that were fully implemented in these 2 files
