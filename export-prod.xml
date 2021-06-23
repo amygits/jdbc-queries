@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<product>
+    <Product productid="30">
+        <price>199.37</price>
+        <madeby>10</madeby>
+        <description>CALLAWAY IRONS</description>
+    </Product>
+    <Product productid="60">
+        <price>39.99</price>
+        <madeby>10</madeby>
+        <description>ACE TENNIS RACKET I</description>
+    </Product>
+    <Product productid="61">
+        <price>49.99</price>
+        <madeby>10</madeby>
+        <description>ACE TENNIS RACKET II</description>
+    </Product>
+    <Product productid="63">
+        <price>8.99</price>
+        <madeby>20</madeby>
+        <description>WELCOME MAT</description>
+    </Product>
+    <Product productid="70">
+        <price>9.99</price>
+        <madeby>30</madeby>
+        <description>TENT STAKES</description>
+    </Product>
+    <Product productid="71">
+        <price>24.49</price>
+        <madeby>20</madeby>
+        <description>BATH TOWELS</description>
+    </Product>
+    <Product productid="76">
+        <price>14.99</price>
+        <madeby>30</madeby>
+        <description>SB ENERGY BAR-6 PACK</description>
+    </Product>
+    <Product productid="80">
+        <price>70.19</price>
+        <madeby>30</madeby>
+        <description>HIKING BOOTS</description>
+    </Product>
+    <Product productid="81">
+        <price>12.99</price>
+        <madeby>30</madeby>
+        <description>SB VITA SNACK-6 PACK</description>
+    </Product>
+    <Product productid="90">
+        <price>19.99</price>
+        <madeby>40</madeby>
+        <description>TENNIS SHIRT</description>
+    </Product>
+</product>
